@@ -103,7 +103,7 @@ export const AboutSection = () => {
           <img 
             src={networkGlobe} 
             alt="Network globe"
-            className="w-full h-full object-contain"
+            className="w-full h-full object-contain md:hidden sm:idden"
           />
         </motion.div>
 

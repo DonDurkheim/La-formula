@@ -196,7 +196,11 @@ export const Contact = () => {
                   </div>
 
                   {/* Office */}
-                  {/* <div className="flex items-start space-x-4">
+                  {/*  */}
+                </div>
+              </div>
+            </div>
+          </div><div className="flex items-start space-x-4">
                     <div className="w-12 h-12 bg-gradient-primary rounded-lg flex items-center justify-center flex-shrink-0">
                       <MapPin className="w-6 h-6 text-white" />
                     </div>
@@ -204,11 +208,7 @@ export const Contact = () => {
                       <p className="text-sm text-muted-foreground mb-1">{t('footer.office')}</p>
                       <p className="text-foreground">{t('footer.office_location')}</p>
                     </div>
-                  </div> */}
-                </div>
-              </div>
-            </div>
-          </div>
+                  </div>
         </div>
       </section>
 
